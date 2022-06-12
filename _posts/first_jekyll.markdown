@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "My first Posts"
-date:  2022-06-13 08:47:36 +0530
-#  2019-03-23 21:03:36 +0530
+date:  2022-06-13 05:03:36 +0530
 categories: Swift Firebase
 ---
 this is first post I have written
